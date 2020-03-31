@@ -1,2 +1,2 @@
 # HSLU_AISO
-Repository for the IPCV module at HSLU I
+Repository for the AISO module at HSLU I
