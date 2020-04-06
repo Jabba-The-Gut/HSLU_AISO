@@ -16,6 +16,7 @@ networkx = "*"
 ortools = "*"
 search = "*"
 nbconvert = "*"
+xelatex = "*"
 
 [requires]
 python_version = "3.8"
