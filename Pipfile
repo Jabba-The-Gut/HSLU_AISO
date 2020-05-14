@@ -17,6 +17,7 @@ ortools = "*"
 search = "*"
 nbconvert = "*"
 xelatex = "*"
+tsp-examples = "*"
 
 [requires]
 python_version = "3.8"
